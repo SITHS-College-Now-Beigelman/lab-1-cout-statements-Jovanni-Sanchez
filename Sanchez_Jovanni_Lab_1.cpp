@@ -21,7 +21,8 @@ int main()
 
     // This is the code for the second block 
     // (Extra credit if the output is surrounded in a Box)
-    // NO \n or it makes BREAKS EVERYTHING >:(
+    // NO \n or it BREAKS EVERYTHING >:(
+    // \n breaks everything T-T
 
     // cout << "##############################################################################" << endl;
     // cout << "#                                                                            #" << endl;
