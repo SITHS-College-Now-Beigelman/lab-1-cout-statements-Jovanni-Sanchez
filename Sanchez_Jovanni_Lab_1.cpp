@@ -11,6 +11,7 @@ int main()
     // This is the code for the first code
     // The use of \n at the end of every string keeps the code nice and compact.
     // There is no need for exessive "count << endl;" statements
+    
     cout << "##############################################################################\n" << endl;
     cout << "Ways to access the Task Manager on your Windows computer:\n" << endl;
     cout << "   Press the key combination Ctrl + Shift + Escape\n" << endl;
@@ -20,6 +21,7 @@ int main()
 
     // This is the code for the second code (BOX)
     // NO \n >:(
+
     // cout << "##############################################################################" << endl;
     // cout << "# Ways to access the Task Manager on your Windows computer:                  #" << endl;
     // cout << "#   Press the key combination Ctrl + Shift + Escape                          #" << endl;
@@ -29,6 +31,8 @@ int main()
 
     return 0;
 }
+
+// OUTPUTS BELOW
 
 // [Running] cd "c:\Users\College\Documents\GitHub\lab-1-cout-statements-Jovanni-Sanchez\" && g++ Sanchez_Jovanni_Lab_1.cpp -o Sanchez_Jovanni_Lab_1 && "c:\Users\College\Documents\GitHub\lab-1-cout-statements-Jovanni-Sanchez\"Sanchez_Jovanni_Lab_1
 // ############################################################################
