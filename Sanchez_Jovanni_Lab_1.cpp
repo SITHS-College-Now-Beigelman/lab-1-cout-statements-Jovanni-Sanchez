@@ -8,7 +8,7 @@ using namespace std;
 
 int main()
 {
-    // This is the code for the first code
+    // This is the code for the first block
     // The use of \n at the end of every string keeps the code nice and compact.
     // There is no need for exessive "count << endl;" statements
     
@@ -19,8 +19,9 @@ int main()
     cout << "   Type “Task Manager” in the Windows Start menu search\n" << endl;
     cout << "##############################################################################" << endl;
 
-    // This is the code for the second code (BOX)
-    // NO \n >:(
+    // This is the code for the second block 
+    // (Extra credit if the output is surrounded in a Box)
+    // NO \n or it makes BREAKS EVERYTHING >:(
 
     // cout << "##############################################################################" << endl;
     // cout << "#                                                                            #" << endl;
